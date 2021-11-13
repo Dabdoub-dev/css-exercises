@@ -1,0 +1,19 @@
+.share {
+    background-color: #FF8784;
+    font-family: Verdana, sans-serif;
+}
+
+.unique {
+    font-size: 24px;
+}
+
+#first-box {
+    color: hsl(240,100%,50%);
+    font-size: 36px;
+}
+
+#second-box {
+    background-color: rgb(144,238,144);
+    font-size: 24px;
+    font-weight: bold;
+}
